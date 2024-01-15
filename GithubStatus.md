@@ -5,5 +5,5 @@
 ---
 
 <p align="center">
-  <img src="https://dunb17ur4ymx4.cloudfront.net/webstore/logos/c9918d684db0753709b93ab97d09dafdf9a63f0e.png" alt="SkyHigh Modifications © 2024" />
+  SkyHigh Modifications © 2024
 </p>
